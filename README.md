@@ -15,8 +15,8 @@ For more background on this data, please see the paper, [Bridging the Gap: A Pra
 ## Usage
 
 1. Please download the dataset from [CMU kilthub](https://kilthub.cmu.edu/articles/dataset/Insider_Threat_Test_Dataset/12841247/1) and unzip them. Then put the CSV files into the folder `./data/`.
-2. For KDE based method, please open **KDE_risk.ipynb** and follow the introduction inside.
-3. For Minhash & K-means based method, please open **Kmeans_email.ipynb** and follow the introduction inside.
+2. For KDE based method, please open [**KDE_risk.ipynb**](https://github.com/waittim/Insider-Risk-in-PySpark/blob/main/KDE_risk.ipynb) and follow the introduction inside.
+3. For Minhash & K-means based method, please open [**Kmeans_email.ipynb**](https://github.com/waittim/Insider-Risk-in-PySpark/blob/main/Kmeans_email.ipynb) and follow the introduction inside.
 
 ## Others
 
